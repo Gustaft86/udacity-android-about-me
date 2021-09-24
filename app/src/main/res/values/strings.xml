@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Gustavo Thirion</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Gustavo.
+    \n\nI am a web developer, live in Osasco-SP - Brazil. \n\nI love technology,
+    passionate about mobile development,
+    fascinated by the embedded features and the numerous
+    possibilities that these features can generate as a solution.
+    \n\nProgramming in kotlin is a lot of fun,
+    it\'s very curious to know even more about this programming language.
+    \n\nMy goal is to become a senior-level professional,
+    and become a reference on the subject for the whole world.\n\n</string>
+    <string name="what_is_your_nickname">Whats is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
